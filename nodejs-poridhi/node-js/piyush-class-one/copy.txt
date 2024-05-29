@@ -1,0 +1,12 @@
+Hello World asyncfunction getDate() { [native code] }28282828
+Hey there I am appended
+Hey there I am appended
+Hey there I am appended
+Hey there I am appended
+Hey there I am appended${date.now()}
+Hey there I am appended with time
+Hey there I am appendedHey there I am appended with time
+
+Hey there I am appended1716889870389Hey there I am appended with time
+
+Hey there I am appended1716889887810Hey there I am appended with time
