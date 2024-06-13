@@ -1,0 +1,50 @@
+1718273195230 : / : New Request Recieved 
+1718273195346 : /favicon.ico : New Request Recieved 
+1718273421725 : / : New Request Recieved 
+ localhost:8000 : New Request Recieved 
+1718273421750 : /favicon.ico : New Request Recieved 
+ localhost:8000 : New Request Recieved 
+1718273508117 : / :
+ localhost:8000 :
+1718273508140 : /favicon.ico :
+ localhost:8000 :
+1718273639444 : / 
+ localhost:8000 
+1718273639465 : /favicon.ico 
+ localhost:8000 
+1718274176067 : / 
+ localhost:8000 
+1718274176087 : /favicon.ico 
+ localhost:8000 
+1718274688126 : /about 
+ localhost:8000 
+1718274688186 : /favicon.ico 
+ localhost:8000 
+1718274690341 : /about 
+ localhost:8000 
+1718274690359 : /favicon.ico 
+ localhost:8000 
+1718274709487 : /about 
+ localhost:8000 
+1718274709550 : /favicon.ico 
+ localhost:8000 
+1718274726054 : /contact 
+ localhost:8000 
+1718274726081 : /favicon.ico 
+ localhost:8000 
+1718274732897 : / 
+ localhost:8000 
+1718274732921 : /favicon.ico 
+ localhost:8000 
+1718274776896 : /about 
+ localhost:8000 
+1718274776964 : /favicon.ico 
+ localhost:8000 
+1718274781459 : / 
+ localhost:8000 
+1718274781487 : /favicon.ico 
+ localhost:8000 
+1718274788086 : /contact 
+ localhost:8000 
+1718274788111 : /favicon.ico 
+ localhost:8000 

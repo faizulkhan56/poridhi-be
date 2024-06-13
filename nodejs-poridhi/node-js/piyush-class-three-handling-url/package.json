@@ -1,0 +1,17 @@
+{
+    "name": "piyush-class-three-handling-url",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2",
+        "nodemon": "^3.1.0",
+        "url": "^0.11.3"
+      }
+  }
+  
