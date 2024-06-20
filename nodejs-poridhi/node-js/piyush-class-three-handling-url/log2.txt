@@ -32,3 +32,9 @@ Query Parameters: {"search_query":"db"}
 Query Parameters: {}
 1718278447274 : /contact : New Request Received 
 Query Parameters: {}
+1718875650364 : / : New Request Received 
+ GETQuery Parameters: {}
+1718876272932 : /signup : New Request Received 
+ GETQuery Parameters: {}
+1718876311351 : /signup : New Request Received 
+ POSTQuery Parameters: {}

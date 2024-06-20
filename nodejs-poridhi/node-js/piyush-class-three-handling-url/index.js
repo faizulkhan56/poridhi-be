@@ -5,7 +5,7 @@ const url = require("url");
 const myServer = http.createServer((req, res) => {
     if (req.url === '/favicon.ico') return res.end();
 
-    let log = `${Date.now()} : ${req.url} : New Request Received \n`; // Change const to let
+    let log = `${Date.now()} : ${req.url} : New Request Received \n ${req.method}`; // Change const to let
     const parsedUrl = url.parse(req.url, true);
     console.log(req.url);
     console.log(parsedUrl);
@@ -29,6 +29,16 @@ const myServer = http.createServer((req, res) => {
                 const search = parsedUrl.query.search_query;
                 console.log(search);
                 res.end("Here are your results for " + search);
+                break;
+
+
+            case '/signup':
+
+                if(req.method == 'GET') res.end("This is a signup From");
+                else if(req.method == "POST"){
+                    //DB Query
+                    res.end("Success");
+                }
                 break;
 
             default:
